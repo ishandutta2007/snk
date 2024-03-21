@@ -117,7 +117,7 @@ export const createSvg = (
     }).replace("/>", ">"),
 
     "<desc>",
-    "Generated with https://github.com/Platane/snk",
+    "Generated with https://github.com/ishandutta2007/snk",
     "</desc>",
 
     "<style>",
